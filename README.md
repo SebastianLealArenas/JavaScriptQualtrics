@@ -3,7 +3,7 @@
 Hi! This is the JavaScript to capture reaction times I used in the papers dealing with RTs. I integrated it into Qualtrics and it required a few extra steps to make it work.
 
 
-The JavaScript must be added to <b>EVERY</b> question you want to time. To do so, go to your survey, click on the question, and go to Edit question > JavaScript.
+The JavaScript must be added to **EVERY** question you want to time. To do so, go to your survey, click on the question, and go to Edit question > JavaScript.
 
 ![EditJava](https://github.com/SebastianLealArenas/JavaScriptQualtrics/assets/129341907/fca658f3-63b7-4617-9281-d9f40f6aa5c6)
 
