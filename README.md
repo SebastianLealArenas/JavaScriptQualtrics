@@ -9,9 +9,11 @@ Paste the JavaScript and assign a name to the video in the Javascript. I went fo
 
 ![JavaScript](https://github.com/SebastianLealArenas/JavaScriptQualtrics/assets/129341907/ce8518a4-a527-4616-91e1-4a6b1f8b97b9)
 
-Once you have done that with every video, go to Survey Flow (Survey > Survey Flow), click on 'Add a New Element Here.'
+Once you have done that with every video, go to Survey Flow (Survey > Survey Flow).
 
 ![SurveyFlow](https://github.com/SebastianLealArenas/JavaScriptQualtrics/assets/129341907/40774e46-9726-4555-a7c4-7a82bae2e496)
+
+Click on 'Add a New Element Here.'
 
 ![AddNewElement](https://github.com/SebastianLealArenas/JavaScriptQualtrics/assets/129341907/4c570ed9-181b-42c5-9056-451a6482484d)
 
