@@ -37,4 +37,3 @@ When you have finished with all your videos, hit 'Apply' in the bottom right of 
 
 
 @SebastianLealArenas
-Comment
